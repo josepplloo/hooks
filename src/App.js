@@ -1,11 +1,12 @@
 import React from 'react';
-import './App.css';
 import CounterExample from './hooks-intro/CounterExample';
+import ContextExample from './hooks-reference/ContextExample';
 
 function App() {
   return (
     <>
     <CounterExample />
+    <ContextExample />
     </>
   );
 }

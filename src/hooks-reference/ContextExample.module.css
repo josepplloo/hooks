@@ -1,0 +1,16 @@
+.light{
+  background: #eeeeee;
+  color: #000000;
+}
+
+.dark{
+  background: #222222;
+  color: #ffffff;
+}
+
+.container{
+  width: 500px;
+  margin:1rem auto;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.795);
+  padding: 1rem;
+}
